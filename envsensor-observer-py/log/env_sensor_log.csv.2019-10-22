@@ -1,0 +1,87 @@
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 09:09:09.261664,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,2,0.0,23.0,84.05,124,0.0,1000.635,64.74,0.0,0.0,0.0,0.0,0.0,0,402,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 09:16:24.443855,raspberrypi,DCD130968233,Rbt 0x01,-57,0.758896853609,196,0.0,27.72,62.26,109,0.0,1000.876,62.64,0.0,0.0,0.0,0.0,0.0,540,1867,0.0,0.0,0.0,0
+2019-10-22 09:16:24.458955,raspberrypi,C8CD922A6F9B,Rbt 0x01,-60,0.90756752091,182,0.0,23.08,83.08,124,0.0,1000.709,61.56,0.0,0.0,0.0,0.0,0.0,1,415,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 09:23:38.048491,raspberrypi,DCD130968233,Rbt 0x01,-54,0.492418074337,117,0.0,25.86,67.63,113,0.0,1000.979,60.79,0.0,0.0,0.0,0.0,0.0,736,1994,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 09:25:20.787466,raspberrypi,C8CD922A6F9B,Rbt 0x01,-57,0.758896853609,206,0.0,23.41,82.82,119,0.0,1000.839,64.71,0.0,0.0,0.0,0.0,0.0,0,407,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 09:35:19.178315,raspberrypi,DCD130968233,Rbt 0x01,-57,0.758896853609,51,0.0,27.3,64.39,118,0.0,1000.895,77.12,0.0,0.0,0.0,0.0,0.0,700,1973,0.0,0.0,0.0,0
+2019-10-22 09:35:19.218702,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,37,0.0,23.52,81.81,116,0.0,1000.794,70.18,0.0,0.0,0.0,0.0,0.0,2,419,0.0,0.0,0.0,0
+2019-10-22 09:42:59.723143,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,52,0.0,27.29,64.47,118,0.0,1000.895,67.72,0.0,0.0,0.0,0.0,0.0,711,1980,0.0,0.0,0.0,0
+2019-10-22 09:45:50.582436,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,38,0.0,23.52,81.79,114,0.0,1000.789,65.48,0.0,0.0,0.0,0.0,0.0,2,419,0.0,0.0,0.0,0
+2019-10-22 09:52:17.804441,raspberrypi,DCD130968233,Rbt 0x01,-55,0.570276430806,53,0.0,27.3,64.5,118,0.0,1000.895,70.99,0.0,0.0,0.0,0.0,0.0,707,1977,0.0,0.0,0.0,0
+2019-10-22 09:52:56.180469,raspberrypi,C8CD922A6F9B,Rbt 0x01,-64,1.42111687069,120,0.0,23.48,81.43,112,0.0,1000.782,67.11,0.0,0.0,0.0,0.0,0.0,2,425,0.0,0.0,0.0,0
+2019-10-22 09:54:32.509132,raspberrypi,DCD130968233,Rbt 0x01,-54,0.492418074337,177,0.0,27.99,61.89,118,0.0,1000.895,63.12,0.0,0.0,0.0,0.0,0.0,730,1991,0.0,0.0,0.0,0
+2019-10-22 09:55:14.432257,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,238,0.0,23.19,83.44,112,0.0,1000.776,63.38,0.0,0.0,0.0,0.0,0.0,6,449,0.0,0.0,0.0,0
+2019-10-22 09:55:56.779205,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,103,0.0,27.4,64.26,113,0.0,1000.923,73.78,0.0,0.0,0.0,0.0,0.0,711,1980,0.0,0.0,0.0,0
+2019-10-22 09:56:35.091940,raspberrypi,C8CD922A6F9B,Rbt 0x01,-59,0.81076,89,0.0,23.24,84.62,112,0.0,1000.798,69.91,0.0,0.0,0.0,0.0,0.0,8,460,0.0,0.0,0.0,0
+2019-10-22 09:57:13.540581,raspberrypi,DCD130968233,Rbt 0x01,-55,0.570276430806,141,0.0,27.73,62.6,120,0.0,1000.93,82.84,0.0,0.0,0.0,0.0,0.0,678,1960,0.0,0.0,0.0,0
+2019-10-22 09:57:46.761061,raspberrypi,C8CD922A6F9B,Rbt 0x01,-66,1.77188476275,164,0.0,23.4,81.9,112,0.0,1000.749,72.85,0.0,0.0,0.0,0.0,0.0,4,434,0.0,0.0,0.0,0
+2019-10-22 09:58:25.220221,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,217,0.0,27.67,62.53,116,0.0,1000.928,72.18,0.0,0.0,0.0,0.0,0.0,725,1988,0.0,0.0,0.0,0
+2019-10-22 09:58:58.437682,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,203,0.0,22.97,84.12,112,0.0,1000.783,65.81,0.0,0.0,0.0,0.0,0.0,6,446,0.0,0.0,0.0,0
+2019-10-22 10:00:10.112918,raspberrypi,DCD130968233,Rbt 0x01,-57,0.758896853609,255,0.0,27.69,62.35,116,0.0,1000.913,74.38,0.0,0.0,0.0,0.0,0.0,714,1981,0.0,0.0,0.0,0
+2019-10-22 10:01:46.470636,raspberrypi,C8CD922A6F9B,Rbt 0x01,-63,1.27132993274,241,0.0,22.89,84.21,114,0.0,1000.764,68.79,0.0,0.0,0.0,0.0,0.0,6,446,0.0,0.0,0.0,0
+2019-10-22 10:02:24.526875,raspberrypi,DCD130968233,Rbt 0x01,-55,0.570276430806,96,0.0,28.24,61.25,118,0.0,1000.908,62.34,0.0,0.0,0.0,0.0,0.0,705,1976,0.0,0.0,0.0,0
+2019-10-22 10:04:50.802993,raspberrypi,C8CD922A6F9B,Rbt 0x01,-66,1.77188476275,123,0.0,23.33,83.1,116,0.0,1000.708,76.2,0.0,0.0,0.0,0.0,0.0,2,419,0.0,0.0,0.0,0
+2019-10-22 10:05:32.681082,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,156,0.0,23.26,82.93,112,0.0,1000.743,65.14,0.0,0.0,0.0,0.0,0.0,4,432,0.0,0.0,0.0,0
+2019-10-22 10:06:11.138605,raspberrypi,DCD130968233,Rbt 0x01,-54,0.492418074337,170,0.0,28.42,60.07,118,0.0,1000.881,62.56,0.0,0.0,0.0,0.0,0.0,634,1933,0.0,0.0,0.0,0
+2019-10-22 10:07:09.300454,raspberrypi,DCD130968233,Rbt 0x01,-57,0.758896853609,206,0.0,28.43,59.97,122,0.0,1000.862,70.49,0.0,0.0,0.0,0.0,0.0,612,1918,0.0,0.0,0.0,0
+2019-10-22 10:07:47.822461,raspberrypi,C8CD922A6F9B,Rbt 0x01,-63,1.27132993274,192,0.0,23.1,86.96,114,0.0,1000.727,67.56,0.0,0.0,0.0,0.0,0.0,11,484,0.0,0.0,0.0,0
+2019-10-22 10:08:24.899619,raspberrypi,DCD130968233,Rbt 0x01,-54,0.492418074337,0,0.0,28.36,60.14,122,0.0,1000.805,66.73,0.0,0.0,0.0,0.0,0.0,612,1918,0.0,0.0,0.0,0
+2019-10-22 10:09:26.331437,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,42,0.0,28.43,60.18,122,0.0,1000.842,66.03,0.0,0.0,0.0,0.0,0.0,634,1933,0.0,0.0,0.0,0
+2019-10-22 10:09:59.587513,raspberrypi,C8CD922A6F9B,Rbt 0x01,-61,1.01582771116,28,0.0,23.25,83.14,72,0.0,1000.705,67.33,0.0,0.0,0.0,0.0,0.0,5,443,0.0,0.0,0.0,0
+2019-10-22 10:10:41.942230,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,96,0.0,28.59,59.62,120,0.0,1000.838,59.79,0.0,0.0,0.0,0.0,0.0,612,1918,0.0,0.0,0.0,0
+2019-10-22 10:11:18.922022,raspberrypi,C8CD922A6F9B,Rbt 0x01,-63,1.27132993274,82,0.0,23.23,82.6,72,0.0,1000.692,62.17,0.0,0.0,0.0,0.0,0.0,3,431,0.0,0.0,0.0,0
+2019-10-22 10:11:52.196034,raspberrypi,DCD130968233,Rbt 0x01,-35,0.0153365707231,138,0.0,28.47,59.72,122,0.0,1000.833,65.07,0.0,0.0,0.0,0.0,0.0,643,1937,0.0,0.0,0.0,0
+2019-10-22 10:12:30.653636,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,174,0.0,27.94,61.53,116,0.0,1000.826,72.04,0.0,0.0,0.0,0.0,0.0,670,1954,0.0,0.0,0.0,0
+2019-10-22 10:13:01.946991,raspberrypi,C8CD922A6F9B,Rbt 0x01,-57,0.758896853609,160,0.0,23.01,83.42,72,0.0,1000.681,63.43,0.0,0.0,0.0,0.0,0.0,7,455,0.0,0.0,0.0,0
+2019-10-22 10:13:44.186525,raspberrypi,DCD130968233,Rbt 0x01,-55,0.570276430806,14,0.0,28.04,61.41,116,0.0,1000.816,66.63,0.0,0.0,0.0,0.0,0.0,670,1954,0.0,0.0,0.0,0
+2019-10-22 10:14:27.253323,raspberrypi,C8CD922A6F9B,Rbt 0x01,-66,1.77188476275,0,0.0,23.26,83.71,70,0.0,1000.684,62.98,0.0,0.0,0.0,0.0,0.0,3,426,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 10:53:37.542456,raspberrypi,DCD130968233,Rbt 0x01,-57,0.758896853609,142,0.0,27.54,61.3,120,0.0,1000.034,61.97,0.0,0.0,0.0,0.0,0.0,573,1892,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 10:54:09.138966,raspberrypi,C8CD922A6F9B,Rbt 0x01,-61,1.01582771116,159,0.0,22.68,83.86,85,0.0,999.847,65.95,0.0,0.0,0.0,0.0,0.0,11,484,0.0,0.0,0.0,0
+2019-10-22 10:54:09.141800,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,173,0.0,27.6,61.06,120,0.0,999.974,65.72,0.0,0.0,0.0,0.0,0.0,573,1892,0.0,0.0,0.0,0
+2019-10-22 10:54:09.247690,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,174,0.0,27.6,61.09,120,0.0,999.992,62.26,0.0,0.0,0.0,0.0,0.0,573,1892,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 10:54:25.124959,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,189,0.0,27.89,60.23,120,0.0,1000.025,59.9,0.0,0.0,0.0,0.0,0.0,552,1878,0.0,0.0,0.0,0
+2019-10-22 10:54:25.161125,raspberrypi,C8CD922A6F9B,Rbt 0x01,-61,1.01582771116,175,0.0,22.69,84.48,85,0.0,999.888,63.78,0.0,0.0,0.0,0.0,0.0,11,482,0.0,0.0,0.0,0
+2019-10-22 10:54:25.232597,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,190,0.0,27.92,60.13,120,0.0,1000.027,61.5,0.0,0.0,0.0,0.0,0.0,552,1878,0.0,0.0,0.0,0
+2019-10-22 10:55:15.723555,raspberrypi,C8CD922A6F9B,Rbt 0x01,-63,1.27132993274,176,0.0,22.69,84.35,85,0.0,999.886,63.65,0.0,0.0,0.0,0.0,0.0,10,477,0.0,0.0,0.0,0
+2019-10-22 11:00:38.375022,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,191,0.0,27.97,59.97,120,0.0,1000.024,61.8,0.0,0.0,0.0,0.0,0.0,556,1882,0.0,0.0,0.0,0
+2019-10-22 11:02:09.680960,raspberrypi,C8CD922A6F9B,Rbt 0x01,-60,0.90756752091,177,0.0,22.69,84.2,85,0.0,999.884,62.44,0.0,0.0,0.0,0.0,0.0,10,477,0.0,0.0,0.0,0
+2019-10-22 11:10:00.299036,raspberrypi,C8CD922A6F9B,Rbt 0x01,-65,1.58745784859,226,0.0,23.05,82.61,107,0.0,999.87,67.01,0.0,0.0,0.0,0.0,0.0,10,477,0.0,0.0,0.0,0
+2019-10-22 11:10:33.465754,raspberrypi,C8CD922A6F9B,Rbt 0x01,-64,1.42111687069,7,0.0,23.08,87.15,116,0.0,999.878,66.39,0.0,0.0,0.0,0.0,0.0,9,469,0.0,0.0,0.0,0
+2019-10-22 11:11:15.704533,raspberrypi,DCD130968233,Rbt 0x01,-54,0.492418074337,60,0.0,28.55,57.36,129,0.0,999.994,73.72,0.0,0.0,0.0,0.0,0.0,507,1844,0.0,0.0,0.0,0
+2019-10-22 11:12:30.598546,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,46,0.0,23.21,83.34,116,0.0,999.845,69.85,0.0,0.0,0.0,0.0,0.0,10,475,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 11:16:16.495968,raspberrypi,C8CD922A6F9B,Rbt 0x01,-61,1.01582771116,207,0.0,22.98,81.74,114,0.0,999.566,65.04,0.0,0.0,0.0,0.0,0.0,9,471,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 11:17:08.188875,raspberrypi,C8CD922A6F9B,Rbt 0x01,-61,1.01582771116,3,0.0,23.02,82.24,112,0.0,999.6,63.4,0.0,0.0,0.0,0.0,0.0,9,471,0.0,0.0,0.0,0
+2019-10-22 11:17:08.209950,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,17,0.0,27.05,62.38,104,0.0,999.746,62.4,0.0,0.0,0.0,0.0,0.0,629,1929,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 12:03:08.078578,raspberrypi,C8CD922A6F9B,Rbt 0x01,-68,2.2017061284,203,0.0,22.97,82.94,112,0.0,998.718,68.38,0.0,0.0,0.0,0.0,0.0,18,529,0.0,0.0,0.0,0
+2019-10-22 12:03:08.127261,raspberrypi,DCD130968233,Rbt 0x01,-57,0.758896853609,217,0.0,25.87,64.71,113,0.0,998.892,73.16,0.0,0.0,0.0,0.0,0.0,700,1973,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 12:05:00.845383,raspberrypi,DCD130968233,Rbt 0x01,-56,0.658700696886,74,0.0,26.19,63.89,111,0.0,998.858,73.86,0.0,0.0,0.0,0.0,0.0,738,1996,0.0,0.0,0.0,0
+2019-10-22 12:05:00.852702,raspberrypi,C8CD922A6F9B,Rbt 0x01,-65,1.58745784859,60,0.0,22.38,85.92,109,0.0,998.681,68.05,0.0,0.0,0.0,0.0,0.0,24,566,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 12:08:29.193648,raspberrypi,C8CD922A6F9B,Rbt 0x01,-65,1.58745784859,12,0.0,23.1,81.24,109,0.0,998.68,65.21,0.0,0.0,0.0,0.0,0.0,18,529,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 12:08:49.960921,raspberrypi,C8CD922A6F9B,Rbt 0x01,-64,1.42111687069,33,0.0,23.03,80.68,109,0.0,998.67,64.34,0.0,0.0,0.0,0.0,0.0,20,538,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 12:09:11.470285,raspberrypi,DCD130968233,Rbt 0x01,-59,0.81076,69,0.0,26.36,63.56,84,0.0,998.827,65.98,0.0,0.0,0.0,0.0,0.0,661,1949,0.0,0.0,0.0,0
+Time,Gateway,Address,Type,RSSI (dBm),Distance (m),Sequence No.,Battery (mV),Temperature (degC),Humidity (%%RH),Light (lx),UV Index,Pressure (hPa),Noise (dB),Discomfort Index,Heat Stroke Risk,Accel.X (mg),Accel.Y (mg),Accel.X (mg),eTVOC (ppb),eCO2 (ppm),SI (kine),PGA (gal),Seismic Intensity,Vibration Info
+2019-10-22 12:12:41.712884,raspberrypi,C8CD922A6F9B,Rbt 0x01,-64,1.42111687069,9,0.0,22.9,81.97,107,0.0,998.539,63.11,0.0,0.0,0.0,0.0,0.0,14,499,0.0,0.0,0.0,0
+2019-10-22 12:13:14.214702,raspberrypi,DCD130968233,Rbt 0x01,-59,0.81076,23,0.0,26.65,62.55,84,0.0,998.683,62.09,0.0,0.0,0.0,0.0,0.0,703,1975,0.0,0.0,0.0,0
+2019-10-22 12:16:03.195832,raspberrypi,DCD130968233,Rbt 0x01,-60,0.90756752091,24,0.0,26.62,62.63,84,0.0,998.687,61.32,0.0,0.0,0.0,0.0,0.0,703,1975,0.0,0.0,0.0,0
+2019-10-22 12:17:19.938923,raspberrypi,C8CD922A6F9B,Rbt 0x01,-62,1.13667379525,10,0.0,22.91,81.81,107,0.0,998.537,62.55,0.0,0.0,0.0,0.0,0.0,14,504,0.0,0.0,0.0,0
+2019-10-22 12:23:43.228209,raspberrypi,DCD130968233,Rbt 0x01,-59,0.81076,25,0.0,26.62,62.67,84,0.0,998.686,62.67,0.0,0.0,0.0,0.0,0.0,716,1982,0.0,0.0,0.0,0
+2019-10-22 12:29:21.145616,raspberrypi,C8CD922A6F9B,Rbt 0x01,-60,0.90756752091,11,0.0,22.91,81.68,107,0.0,998.541,62.91,0.0,0.0,0.0,0.0,0.0,14,504,0.0,0.0,0.0,0
+2019-10-22 12:36:46.594694,raspberrypi,C8CD922A6F9B,Rbt 0x01,-61,1.01582771116,41,0.0,22.73,83.0,112,0.0,998.565,63.77,0.0,0.0,0.0,0.0,0.0,11,481,0.0,0.0,0.0,0
+2019-10-22 12:37:19.855638,raspberrypi,DCD130968233,Rbt 0x01,-59,0.81076,100,0.0,26.22,63.93,82,0.0,998.675,60.87,0.0,0.0,0.0,0.0,0.0,753,2003,0.0,0.0,0.0,0
+2019-10-22 12:37:53.344077,raspberrypi,C8CD922A6F9B,Rbt 0x01,-73,3.72387653039,86,0.0,22.17,84.34,109,0.0,998.486,61.39,0.0,0.0,0.0,0.0,0.0,23,559,0.0,0.0,0.0,0
